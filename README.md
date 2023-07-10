@@ -16,7 +16,7 @@ I have utilized docker for containerization and ensuring seamless deployment and
 
 ## Short Video Overview
 
-[![Video](screenshots/dev_blog_crawler_1.png)](https://youtu.be/FfIPXmjeUvU)
+[![Video](https://youtu.be/FfIPXmjeUvU)](https://youtu.be/FfIPXmjeUvU)
 
 ## Here some screenshots about this projects
 
