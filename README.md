@@ -16,17 +16,17 @@ I have utilized docker for containerization and ensuring seamless deployment and
 
 ## Short Video Overview
 
-[![Video](https://youtu.be/FfIPXmjeUvU)]
+[![Video](https://youtu.be/FfIPXmjeUvU)
 
 ## Here some screenshots about this projects
 
-![Image]('screenshots/dev_blog_crawler_1.png')
-![Image]('screenshots/dev_blog_crawler_2.png')
-![Image]('screenshots/dev_blog_crawler_3.png')
-![Image]('screenshots/dev_blog_crawler_4.png')
-![Image]('screenshots/dev_blog_crawler_5.png')
-![Image]('screenshots/dev_blog_crawler_6.png')
-![Image]('screenshots/dev_blog_crawler_7.png')
-![Image]('screenshots/dev_blog_crawler_8.png')
-![Image]('screenshots/dev_blog_crawler_9.png')
-![Image]('screenshots/dev_blog_crawler_10.png')
+![Screenshot]('screenshots/dev_blog_crawler_1.png')
+![Screenshot]('screenshots/dev_blog_crawler_2.png')
+![Screenshot]('screenshots/dev_blog_crawler_3.png')
+![Screenshot]('screenshots/dev_blog_crawler_4.png')
+![Screenshot]('screenshots/dev_blog_crawler_5.png')
+![Screenshot]('screenshots/dev_blog_crawler_6.png')
+![Screenshot]('screenshots/dev_blog_crawler_7.png')
+![Screenshot]('screenshots/dev_blog_crawler_8.png')
+![Screenshot]('screenshots/dev_blog_crawler_9.png')
+![Screenshot]('screenshots/dev_blog_crawler_10.png')
