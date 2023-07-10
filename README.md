@@ -16,7 +16,7 @@ I have utilized docker for containerization and ensuring seamless deployment and
 
 ## Short Video Overview
 
-[![Video](https://youtu.be/FfIPXmjeUvU)](https://youtu.be/FfIPXmjeUvU)
+<iframe width="1903" height="760" src="https://www.youtube.com/embed/FfIPXmjeUvU" title="dev to crawler django 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Here some screenshots about this projects
 
